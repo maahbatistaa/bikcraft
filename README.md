@@ -9,6 +9,6 @@ Além de ter feito todo o prototipo no curso de UI Design, eu pude colocar em pr
 ***Front-end:*** HTML, CSS e JavaScript
 
 ### Demonstração
-[Bikcraft](https://bikcraft-flame.vercel.app)
+[Bikcraft](https://bikcraft-chi-puce.vercel.app)
 <hr>
 
